@@ -1,4 +1,4 @@
-from selene import browser, be, have, by
+from selene import browser, be, have
 
 def test_01():
     browser.open('https://google.com')
